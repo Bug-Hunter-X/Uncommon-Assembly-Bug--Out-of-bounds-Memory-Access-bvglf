@@ -1,0 +1,1 @@
+This repository demonstrates an uncommon assembly language bug involving out-of-bounds memory access.  The bug arises from an incorrect calculation of an array index within the assembly code.  This can result in segmentation faults or other unpredictable behavior.  The provided solution corrects this index calculation to prevent memory access violations.
